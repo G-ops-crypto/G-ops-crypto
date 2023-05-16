@@ -17,8 +17,9 @@
 <h2>✨ Certifications</h2>
 
    -<a href="https://www.credly.com/badges/212e85dc-b328-4e80-9441-930399c4220e/public_url">CCNA</a>
- 
-   -CompTIA Security+ SY0-601 (I’m currently learning ...)
+
+   
+   -<a href="https://www.credly.com/badges/6f937fb7-6584-4dd0-9ae7-3c3c5269894e/public_url">CompTIA Security+ SY0-601</a>
 
 <h2> 🤳 Connect with me:</h2>
 
