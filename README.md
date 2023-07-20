@@ -4,8 +4,13 @@
 
 - <b>Practical Malware Analysis & Triage(by TCM Security)</b>
   
-  
-  -I’m currently working on ...
+•	Practical Malware Analysis & Triage (by TCM Security)
+•	Python for cybersecurity
+•	Implementing the NIST cybersecurity framework
+•	Splunk for SOC analysts course 
+•	Firewall: pfsense
+•	LetsDefend simulated SOC enviroment
+
 - <b>LetsDefend </b>
   
      -LetsDefend is a hands-on Blue Team training platform that enables people to gain practical experience by investigating real cyber attacks inside a simulated SOC.
