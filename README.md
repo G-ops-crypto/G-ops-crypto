@@ -15,6 +15,9 @@
  
      
      -<a href="https://app.letsdefend.io/public-profile/user/alumnonumerodelista29@gmail.co/25dcf1f8-7434-411a-b431-f9e209e94ee9">My profile</a>
+
+<h2>✍ Education</h2>
+- <b>Atlantic International University: Bachelors in Cybersecurity and Hacking (finished the academic part, but still missing the tuition)</b>
      
 
 <h2>✨ Certifications</h2>
