@@ -1,4 +1,4 @@
-<h1>Hi, I'm Emmanuel! <br/> <a href="https://www.linkedin.com/in/emmanuel-ruiz-1151b7212/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Emmanuel! <br/> <a href="https://www.linkedin.com/in/emmanuel-ruiz-1151b7212/">Cybersecurity Student  | Part time</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
