@@ -6,7 +6,7 @@
 - <b>Python for cybersecurity</b>
 - <b>Implementing the NIST cybersecurity framework</b>
 - <b>Splunk for SOC analysts course </b>
-- <b>	Firewall: pfsense)</b>
+- <b>	Firewall: pfsense</b>
 - <b>	LetsDefend simulated SOC enviroment</b>
   
 - <b>LetsDefend </b>
